@@ -4,19 +4,12 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 
 Time spent: **10** hours spent in total
 
-## User Stories
+## Features
 
-The following **required** functionality is completed:
-
-- [x] User stays logged in across restarts. (1pt)
-- [x] User can log out. (1pt)
-- [x] User can view comments on a post. (3pts)
-- [x] User can add a new comment. (5pts)
-
-The following **bonus** features are implemented:
-
-- [ ] User can add a profile picture. (2pts)
-- [ ] Profile pictures are shown for posts and comments. (2pts)
+- User stays logged in across restarts.
+- User can log out.
+- User can view comments on a post.
+- User can add a new comment.
 
 ## Video Walkthrough
 
@@ -25,26 +18,19 @@ Here's a walkthrough of implemented user stories:
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/78672241/196314002-36c22fcd-e273-4ec6-927e-db4c101995d9.gif)
 
 
-# Parstagram - Part I
+# Instagram - Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
 Time spent: **8** hours spent in total
 
-## User Stories
+## Features
 
-The following **required** functionality is completed:
-
-- [x] User sees app icon in home screen and styled launch screen. (1pt)
-- [x] User can sign up to create a new account. (1pt)
-- [x] User can log in. (1pt)
-- [x] User can take a photo, add a caption, and post it to the server. (3pt)
-- [x] User can view the last 20 posts. (4pts)
-
-The following **bonus** features are implemented:
-
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past posts infinitely. (2pts)
+-  User sees app icon in home screen and styled launch screen.
+-  User can sign up to create a new account.
+-  User can log in.
+-  User can take a photo, add a caption, and post it to the server.
+-  User can view the last 20 posts.
 
 ## Video Walkthrough
 
